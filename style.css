@@ -1,0 +1,39 @@
+.header_div{
+    background: turquoise;
+    color: white;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: white;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px chartreuse;
+    border: 1px solid;
+}
+#camera , #result{
+    border: 1px rgb(255, 255, 255) solid;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+    color: black;
+}
+.footer_div img{
+    width: 50px;
+    background-color: black;
+}
